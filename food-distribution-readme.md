@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact 📧
 
-Project Link: [https://github.com/yourusername/smart-food-distribution](https://github.com/yourusername/smart-food-distribution)
+Project Link: [https://github.com/Aman-423/smart-food-distribution](https://github.com/Aman-423/smart-food-distribution)
 
 ---
 Made with ❤️ for efficient food distribution
